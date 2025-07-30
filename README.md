@@ -12,7 +12,7 @@ Installation
 Install Poetry:pip install poetry
 
 
-Clone the Repository:git clone <your-repo-url>
+Clone the Repository:git clone https://github.com/Mayurishelar/pubmed-fetcher.git
 cd pubmed-fetcher
 
 
